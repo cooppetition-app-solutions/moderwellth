@@ -210,11 +210,11 @@ Or comment "LILLI" and we'll send you the link. ✨
 ### Image guide (`images/`)
 | Post | File(s) |
 |---|---|
-| 1 | `post-01-square.png`: overview of all six pillars |
-| 2–7 | `post-02-square.png` … `post-07-square.png`: one per pillar |
-| 8 | `post-08-square.png`: Wellth Check-In rating card (meant to be screenshotted) |
-| 9 | `post-09-square.png` |
-| 10 | `post-10-square.png` + `post-10-story.png` (1080×1920 Story) |
+| 1 | `post-01.png`: overview of all six pillars |
+| 2–7 | `post-02.png` … `post-07.png`: one per pillar |
+| 8 | `post-08.png`: Wellth Check-In rating card (meant to be screenshotted) |
+| 9 | `post-09.png` |
+| 10 | `post-10.png` + `post-10-story.png` (1080×1920 Story) |
 
 ### Posting tips
 - **Cadence:** 2–3 posts a week over about 4 weeks, ending with post 10. Pin or feature the Lilli post afterwards.
